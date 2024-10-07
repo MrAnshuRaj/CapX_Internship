@@ -22,3 +22,4 @@ A simple Android app that fetches real-time stock data and displays the latest s
 
    ```bash
    git clone https://github.com/MrAnshuRaj/CapX_Internship.git
+2. Please note that I had uploaded the apk file into google drive but it was flagged for review and acsess has been denied. So, I have uploaded the apk file in the GitHub itself. 
